@@ -37,7 +37,7 @@ These were the questions to be answered:
 - Working with CTE’s.
 - Creating Views to store Data for possible Visualization Projects with Tableau or PowerBI.
 
-### Here is a Selection of some of the Queries Written:
+### Here is a Selection of Some of the Queries Written:
 ```sql
 /* Q3: Which Franchise was the Top Seller and What was its Total Sales Amount in 2020? */
 WITH Total_Sales_CTE AS (
